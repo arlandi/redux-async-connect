@@ -67,32 +67,5 @@
     "webpack": "^1.12.6",
     "webpack-dev-middleware": "^1.2.0",
     "eslint-config-airbnb": "^3.1.0"
-  },
-  "gitHead": "488765287a96ceed90b20cd7c40dcd7bbb3bb290",
-  "_id": "redux-async-connect@1.0.0-rc4",
-  "_shasum": "a22cd737b54486cf8826aa05a65937aea721ff4c",
-  "_from": "redux-async-connect@>=1.0.0-rc2 <2.0.0",
-  "_npmVersion": "3.3.12",
-  "_nodeVersion": "5.1.1",
-  "_npmUser": {
-    "name": "sarssokol",
-    "email": "i6@bk.ru"
-  },
-  "dist": {
-    "shasum": "a22cd737b54486cf8826aa05a65937aea721ff4c",
-    "tarball": "https://registry.npmjs.org/redux-async-connect/-/redux-async-connect-1.0.0-rc4.tgz"
-  },
-  "maintainers": [
-    {
-      "name": "sarssokol",
-      "email": "i6@bk.ru"
-    }
-  ],
-  "_npmOperationalInternal": {
-    "host": "packages-13-west.internal.npmjs.com",
-    "tmp": "tmp/redux-async-connect-1.0.0-rc4.tgz_1457142674790_0.3697889621835202"
-  },
-  "directories": {},
-  "_resolved": "https://registry.npmjs.org/redux-async-connect/-/redux-async-connect-1.0.0-rc4.tgz",
-  "readme": "ERROR: No README data found!"
+  }
 }
